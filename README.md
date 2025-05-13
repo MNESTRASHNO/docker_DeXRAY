@@ -1,7 +1,8 @@
-#Docker + DeXRAY
+# Docker + DeXRAY
+
 **Dockerfile + bash + DeXRAY.pl == Good Day**
 
-##Installation:
+## Installation:
 
 ```bash
 git clone this project
