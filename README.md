@@ -5,7 +5,7 @@
 ## Installation:
 
 ```bash
-git clone this project
+git clone https://github.com/MNESTRASHNO/docker_DeXRAY.git
 docker build --no-cache -t dexray .
 docker run --rm -v $(pwd):/data dexray -i /data/zabolelwe.klq -o /data/report.csv
 ```
