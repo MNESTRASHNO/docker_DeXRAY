@@ -6,6 +6,7 @@
 
 ```bash
 git clone https://github.com/MNESTRASHNO/docker_DeXRAY.git
+cd docker_DeXRAY/
 docker build --no-cache -t dexray .
 docker run --rm -v $(pwd):/data dexray -i /data/<your_file> -o /data/report.csv
 ```
